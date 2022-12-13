@@ -1,0 +1,21 @@
+
+       body { 
+            background-image:url("white-abstract-background_23-2148812993.jpg");
+            background-repeat: no-repeat;
+            background-size: 100%;
+
+        }
+        img {
+         border-radius: 50%;
+         
+       
+            }
+
+        table, th, td {
+            border-collapse: collapse;
+            padding: 10px;
+        }
+
+        h1{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+        }
